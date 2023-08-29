@@ -9,6 +9,8 @@
 
 
 **Project Description:**
+
+
 Our objective is to apply Time Series Analysis to analyze the below Stocks and Cryptocurrency over a period of two years. 
 We will also apply Algorithmic Trading to automate trading for our company.
 
