@@ -9,7 +9,7 @@
 
 
 **Project Description:**
-
+Our objective is to apply Time Series Analysis to analyze the below Stocks and Cryptocurrency over a period of two years. We will also apply Algorithmic Trading to automate trading for our company.
 
 **Time Period:**
  * 2022-Present 
@@ -24,9 +24,9 @@
  
  
  **Research questions to answer**
- 1. Can we forecast Stock and Crypto currency?
+ 1. Can we forecast Stock and Cryptocurrency?
  2. Which model performed best for both Time Series Analysis and Algorithmic Trading?
- 3. Can we find patterns in our Stocks and Crypto Currency data by visualizing them with plots?
+ 3. Can we find patterns in our Stocks and Cryptocurrency data by visualizing them with plots?
 
 
 
@@ -46,7 +46,7 @@
       2. Monica Davis
       3. Rachel Mwangi
 
-  [ ]Create visualization to showcase any patterns in our Stocks and Crypto Currency data
+  [ ]Create visualization to showcase any patterns in our Stocks and Cryptocurrency data
       1. Julian Hendrickson
       2. Monica Davis
       3. Rachel Mwangi
