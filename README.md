@@ -40,16 +40,19 @@ We will also apply Algorithmic Trading to automate trading for our company.
   [ ]Pre-processing data - Julian Hendrickson
   
   [ ] Time Series Analysis
+  
       1. Julian Hendrickson
       2. Monica Davis
       3. Rachel Mwangi
 
   [ ] Algorithmic Trading
+  
       1. Julian Hendrickson
       2. Monica Davis
       3. Rachel Mwangi
 
   [ ]Create visualization to showcase any patterns in our Stocks and Cryptocurrency data
+  
       1. Julian Hendrickson
       2. Monica Davis
       3. Rachel Mwangi
