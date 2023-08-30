@@ -15,7 +15,7 @@ Our objective is to apply Time Series Analysis to analyze the below Stocks and C
 We will also apply Algorithmic Trading to automate trading for our company.
 
 **Time Period:**
- * 2022-Present 
+ * 2022 - June 30, 2023 
  
 
 **Stock Portfolio Automation**
