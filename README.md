@@ -19,11 +19,11 @@ We will also apply Algorithmic Trading to automate trading for our company.
  
 
 **Stock Portfolio Automation**
- - Microsoft
+ - Microsoft (MSFT)
  - Ethereum (ETH-USD)
  - Bitcoin (BTC-USD)
- - Nvidia
- - Walmart 
+ - Nvidia (NVDA)
+ - Walmart (WMT)
  
  
  **Research questions to answer**
