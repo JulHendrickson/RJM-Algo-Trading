@@ -11,23 +11,15 @@
 **Project Description:**
 
 
-Our objective is to apply Time Series Analysis to analyze the below Stocks and Cryptocurrency over a period of two years. 
-We will also apply Algorithmic Trading to automate trading for our company.
+Our objective is to apply Supervised Learning machine models for classification and regression analysis to Bitcoin price data, with the objective of predicting when to buy or sell
 
 **Time Period:**
  * 2022 - June 30, 2023 
  
-
-**Stock Portfolio Automation**
- - Ethereum (ETH-USD)
- - Bitcoin (BTC-USD)
-
- 
  
  **Research questions to answer**
- 1. Can we forecast Bitcoin and Etheruem?
- 2. Which model performed best for Supervised Learning?
- 3. Can we find patterns in our Cryptocurrency data by visualizing them with plots?
+ 1. Which model performed best for Supervised Learning?
+ 2. Is the model a good fit for predicitng bitcoin trade signals?
 
 
 
